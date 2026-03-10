@@ -59,6 +59,20 @@ These insights help businesses understand where sales are strongest and which cu
 
 ---
 
+## Business Recommendations
+
+The analysis highlights several opportunities to improve retail performance:
+
+• Product categories with strong sales performance could be prioritised for inventory allocation and marketing promotions.
+
+• States with high sales performance may represent strong markets where additional marketing investment could increase revenue further.
+
+• Regions with lower sales performance may require targeted promotions or pricing strategies to stimulate demand.
+
+• Monitoring sales by customer segment can help businesses better tailor marketing campaigns to different customer groups.
+
+---
+
 ## Tools Used
 
 - **Tableau** – dashboard design and data visualisation
